@@ -17,4 +17,4 @@ Cisco: Introduction to Data Science, Introduction to Cybersecurity, Introduction
 ## Currently looking for
 Internships or junior roles in ML, AI or software engineering.
 
-📫 [LinkedIn]([www.linkedin.com/in/noel-echeverría-761623334](https://www.linkedin.com/in/noel-echeverr%C3%ADa-761623334/))
+📫 [LinkedIn](https://www.linkedin.com/in/noel-echeverr%C3%ADa-761623334/)
