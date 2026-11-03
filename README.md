@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Noel 👋
 
-<!--
-**NoelRevotn/NoelRevotn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems and Computing Engineering student at Universidad Tecnológica de Panamá, focused on machine learning and AI agents.
 
-Here are some ideas to get you started:
+## What I'm working on
+- **Buddy**: a local-first personal AI agent that plans, asks before acting, and keeps personal data on my machine. Python core, PostgreSQL + pgvector, local models via Ollama.
+- Learning ML engineering through Samsung Innovation Campus, GCI World (University of Tokyo) and Talent Up Panamá.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+**Languages:** Python · C# · Java · JavaScript · C++
+**AI and data:** Pydantic AI · Ollama · FastAPI · pandas · NumPy · Matplotlib · scikit-learn (learning)
+**Web and tools:** React · Supabase · SQLite · Git · Linux · Docker (learning)
+
+## Certifications
+Cisco: Introduction to Data Science, Introduction to Cybersecurity, Introduction to Modern AI, Linux Unhatched · Google Technical Support Fundamentals · Anthropic: Claude Code 101
+
+## Currently looking for
+Internships or junior roles in ML, AI or software engineering.
+
+📫 [LinkedIn](www.linkedin.com/in/noel-echeverría-761623334)
